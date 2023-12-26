@@ -1,0 +1,25 @@
+const String initialScreen = splashScreen;
+
+const String splashScreen = '/';
+const String onboardingScreen = '/onboarding';
+const String authenticationScreen = '/authentication';
+const String signUpScreen = '/signUp';
+const String signInScreen = '/signIn';
+const String accountSettingScreen = '/accountSettings';
+const String forgotPassword = '/forgotPassword';
+const String otpScreen = '/otpScreen';
+const String questions = '/questions';
+const String socialLogin = '/socialLogin';
+const String questionOne = '/questionOne';
+const String questionOnePointFive = '/questionOnePointFive';
+const String questionTwo = '/questionTwo';
+const String questionThree = '/questionThree';
+//const String questionOnePointFive = '/questionOnePointFive';
+const String bottomNavigationBar = '/bottomNavigationBar';
+const String chooseFriends = '/chooseFriends';
+const String personalDetailsScreen = '/personalDetailsScreen';
+const String editpersonalDetailsScreen = '/editpersonalDetailsScreen';
+const String changePasswordScreen = '/changePasswordScreen';
+const String updatePasswordScreen = '/updatePasswordScreen';
+const String cartScreen = '/cartScreen';
+// const String contactDetailsScreen = '/contactDetailsScreen';
